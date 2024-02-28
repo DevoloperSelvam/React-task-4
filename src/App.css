@@ -1,0 +1,25 @@
+.input{
+  text-align: center;
+  display: flex;
+  justify-content: space-evenly;
+  margin: 40px;
+}
+
+h1{
+  justify-content: center;
+  text-align: center;
+}
+
+.card{
+  border: solid black 2px;
+  display: flex;
+  border-radius: 10px;
+  
+}
+
+input{
+  border-radius: 7px;
+}
+select{
+  border-radius: 5px;
+}
